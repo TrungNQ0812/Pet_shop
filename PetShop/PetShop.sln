@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShopLibrary", "PetShopLibrary\PetShopLibrary.csproj", "{331EFB29-8EE7-44F7-BB9B-9ABF58B81416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShopWPF", "PetShopWPF\PetShopWPF.csproj", "{0F4A484F-1ADE-46F8-A21C-3128A45A5379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{331EFB29-8EE7-44F7-BB9B-9ABF58B81416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331EFB29-8EE7-44F7-BB9B-9ABF58B81416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331EFB29-8EE7-44F7-BB9B-9ABF58B81416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331EFB29-8EE7-44F7-BB9B-9ABF58B81416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4A484F-1ADE-46F8-A21C-3128A45A5379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4A484F-1ADE-46F8-A21C-3128A45A5379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4A484F-1ADE-46F8-A21C-3128A45A5379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4A484F-1ADE-46F8-A21C-3128A45A5379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB82F19C-A54C-49BA-9949-D915C91893A5}
+	EndGlobalSection
+EndGlobal

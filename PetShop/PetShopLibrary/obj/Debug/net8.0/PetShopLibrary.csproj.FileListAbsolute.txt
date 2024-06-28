@@ -1,0 +1,15 @@
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\bin\Debug\net8.0\PetShopLibrary.deps.json
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\bin\Debug\net8.0\PetShopLibrary.runtimeconfig.json
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\bin\Debug\net8.0\PetShopLibrary.dll
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\bin\Debug\net8.0\PetShopLibrary.pdb
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\obj\Debug\net8.0\PetShopLibrary.csproj.AssemblyReference.cache
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\obj\Debug\net8.0\PetShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\obj\Debug\net8.0\PetShopLibrary.AssemblyInfoInputs.cache
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\obj\Debug\net8.0\PetShopLibrary.AssemblyInfo.cs
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\obj\Debug\net8.0\PetShopLibrary.csproj.CoreCompileInputs.cache
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\obj\Debug\net8.0\PetShopLibrary.sourcelink.json
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\obj\Debug\net8.0\PetShopLibrary.dll
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\obj\Debug\net8.0\refint\PetShopLibrary.dll
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\obj\Debug\net8.0\PetShopLibrary.pdb
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\obj\Debug\net8.0\PetShopLibrary.genruntimeconfig.cache
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopLibrary\obj\Debug\net8.0\ref\PetShopLibrary.dll
