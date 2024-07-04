@@ -1,0 +1,15 @@
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+D:\Code\C_Sharp\Pet_shop\PetShop\Repositories\obj\Debug\net8.0\ref\Repositories.dll
