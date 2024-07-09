@@ -5,8 +5,23 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PetShopWPF"
         mc:Ignorable="d"
-        Title="RegisterWindow" Height="450" Width="800">
+        Title="RegisterWindow" Height="500" Width="800">
     <Grid>
-        
+        <Label Content="Register Window" FontSize="40" HorizontalAlignment="Left" Margin="228,22,0,0" VerticalAlignment="Top"/>
+        <Label Content="Username" FontSize="15" HorizontalAlignment="Left" Margin="114,108,0,0" VerticalAlignment="Top"/>
+        <Label Content="Password" FontSize="15" HorizontalAlignment="Left" Margin="114,158,0,0" VerticalAlignment="Top"/>
+        <Label Content="Confirm password" FontSize="15" HorizontalAlignment="Left" Margin="114,206,0,0" VerticalAlignment="Top"/>
+        <Label Content="Email" FontSize="15" HorizontalAlignment="Left" Margin="114,251,0,0" VerticalAlignment="Top"/>
+        <TextBox FontSize="15" HorizontalAlignment="Left" Margin="272,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="345"/>
+        <PasswordBox FontSize="15" HorizontalAlignment="Left" Margin="272,162,0,0" VerticalAlignment="Top" Width="345"/>
+        <PasswordBox FontSize="15" HorizontalAlignment="Left" Margin="272,210,0,0" VerticalAlignment="Top" Width="345"/>
+        <Label Content="Phone number" FontSize="15" HorizontalAlignment="Left" Margin="114,301,0,0" VerticalAlignment="Top"/>
+        <TextBox FontSize="15" HorizontalAlignment="Left" Margin="272,255,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="345"/>
+        <TextBox FontSize="15" HorizontalAlignment="Left" Margin="272,305,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="345"/>
+        <Button FontSize="15" Content="Register" HorizontalAlignment="Left" Margin="540,356,0,0" VerticalAlignment="Top" Width="77" Click="Register_Click"/>
+        <Button FontSize="15" Content="Cancel" HorizontalAlignment="Left" Margin="434,356,0,0" VerticalAlignment="Top" Width="77" Click="Cancel_Click"/>
+        <Label Content="Have account ?" HorizontalAlignment="Left" Margin="450,398,0,0" VerticalAlignment="Top"/>
+        <Button Content="Back to login" HorizontalAlignment="Left" Margin="540,401,0,0" VerticalAlignment="Top" Width="77" Click="BackToLogin_Click"/>
+
     </Grid>
 </Window>

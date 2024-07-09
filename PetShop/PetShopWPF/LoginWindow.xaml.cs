@@ -1,5 +1,10 @@
-﻿using System;
+﻿using Microsoft.Identity.Client;
+using Repositories;
+using Repositories.Models;
+using Services;
+using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,9 +24,59 @@ namespace PetShopWPF
     /// </summary>
     public partial class LoginWindow : Window
     {
+        private readonly AccountServices accountServices;
         public LoginWindow()
         {
             InitializeComponent();
+            accountServices = new AccountServices();
         }
+
+        private void gotoRegister_Click(object sender, RoutedEventArgs e)
+        {
+            RegisterWindow registerWindow = new RegisterWindow();
+            this.Close();
+            registerWindow.Show();
+        }
+
+        private void Cancel_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+
+        private void Login_Click(object sender, RoutedEventArgs e)
+        {
+
+            Account account = accountServices.GetAccountByEmail(txtUsername.Text);
+
+
+            if (account != null && account.Email.Equals(txtUsername.Text)
+            && account.Password.Equals(txtPassword.Password))
+            {
+                if (account.AccountType.Equals(0))
+                {
+                    // Điều hướng tới cửa sổ admin
+                    AdminWindow adminWindow = new AdminWindow();
+                    this.Hide();
+                    MessageBox.Show("Đăng nhập thành công bằng tài khoản admin!", "Thành công", MessageBoxButton.OK, MessageBoxImage.Information);
+                    adminWindow.Show();
+                }
+                else if (account.AccountType.Equals(1))
+                {
+                    // Điều hướng tới cửa sổ customer
+                    CustomerWindow customerWindow = new CustomerWindow();
+                    this.Hide();
+                    MessageBox.Show("Đăng nhập thành công bằng tài khoản khách!", "Thành công", MessageBoxButton.OK, MessageBoxImage.Information);
+                    customerWindow.Show();
+                }
+            }
+            else
+            {
+                MessageBox.Show("Tên đăng nhập hoặc mật khẩu không đúng.", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+
+        }
+
+
+
     }
 }

@@ -1,9 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Repositories.Models;
 
 namespace Repositories;
+
+// Đây là class đại diện cho database ta đang connect tới
+//Chứa luôn câu lệnh kết nối cơ sở dữ liệu (HardCode connection string) vì nó phải móc vào db mới thao tác được
+//Hard code thì nguy hiểm, bị lộ thông tin trong dll, và sẽ bị dịch ngược bởi dotpeek,...
+//hard code sẽ chỉ chơi được với 1 db và 1 cặp username và password
+//Cần giấu infor server
+//Tách gỡ connection string ra khỏi class này
+//Class này sẽ đọc info cấu hình ở 1 file bên ngoài đặt tại thư mục nào đó | Thư mục GUI APP
+//Tập tin chứa info kết nối csdl thì gọi là Configuration file ( file text thuần nhưng có định dạng trong contents để dễ đọc thông tin
+//Đuôi nó thường có dạng .json
 
 public partial class PetShopContext : DbContext
 {
@@ -26,9 +37,20 @@ public partial class PetShopContext : DbContext
 
     public virtual DbSet<ServiceUsing> ServiceUsings { get; set; }
 
+    private string GetConnectionString()
+    {
+        IConfiguration configuration = new ConfigurationBuilder()
+            .SetBasePath(Directory.GetCurrentDirectory())
+            .AddJsonFile("appsettings.json", true, true).Build();
+        return configuration["ConnectionStrings:DefaultConnectionStringDB"];
+    }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=(local);Database= PetShop ;User Id=sa;Password=123121;TrustServerCertificate=True");
+    {
+        if(!optionsBuilder.IsConfigured){
+            optionsBuilder.UseSqlServer(GetConnectionString());
+        }
+    }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

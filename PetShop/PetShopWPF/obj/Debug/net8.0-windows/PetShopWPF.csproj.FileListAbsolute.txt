@@ -149,3 +149,4 @@ D:\Code\C_Sharp\Pet_shop\PetShop\PetShopWPF\bin\Debug\net8.0-windows\Repositorie
 D:\Code\C_Sharp\Pet_shop\PetShop\PetShopWPF\bin\Debug\net8.0-windows\Services.dll
 D:\Code\C_Sharp\Pet_shop\PetShop\PetShopWPF\bin\Debug\net8.0-windows\Services.pdb
 D:\Code\C_Sharp\Pet_shop\PetShop\PetShopWPF\bin\Debug\net8.0-windows\Repositories.pdb
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopWPF\bin\Debug\net8.0-windows\appsettings.json

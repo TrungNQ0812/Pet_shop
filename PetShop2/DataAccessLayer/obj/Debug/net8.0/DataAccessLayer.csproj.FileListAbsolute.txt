@@ -1,0 +1,13 @@
+D:\Code\C_Sharp\Pet_shop\PetShop2\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Code\C_Sharp\Pet_shop\PetShop2\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Code\C_Sharp\Pet_shop\PetShop2\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Code\C_Sharp\Pet_shop\PetShop2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C_Sharp\Pet_shop\PetShop2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Code\C_Sharp\Pet_shop\PetShop2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Code\C_Sharp\Pet_shop\PetShop2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Code\C_Sharp\Pet_shop\PetShop2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\Code\C_Sharp\Pet_shop\PetShop2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Code\C_Sharp\Pet_shop\PetShop2\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Code\C_Sharp\Pet_shop\PetShop2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Code\C_Sharp\Pet_shop\PetShop2\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\Code\C_Sharp\Pet_shop\PetShop2\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache

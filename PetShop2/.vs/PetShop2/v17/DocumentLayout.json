@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\services\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|solutionrelative:services\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|solutionrelative:services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|solutionrelative:services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\services\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|solutionrelative:services\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\services\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|solutionrelative:services\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|solutionrelative:services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\services\\ipetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|solutionrelative:services\\ipetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DD094D-A799-4623-BFDF-FBE1706961D9}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|solutionrelative:repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|solutionrelative:repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|solutionrelative:repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\repositories\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|solutionrelative:repositories\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\repositories\\iappointmentreposirory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iappointmentreposirory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\repositories\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\repositories\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\repositories\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9515F6D-EA9B-444B-AC85-F0EE4D40C733}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2687E988-F3B2-4317-84C0-41C7CAC47D1F}|DataAccessLayer\\DataAccessLayer.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\dataaccesslayer\\appointmentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2687E988-F3B2-4317-84C0-41C7CAC47D1F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\appointmentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2687E988-F3B2-4317-84C0-41C7CAC47D1F}|DataAccessLayer\\DataAccessLayer.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\dataaccesslayer\\servicesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2687E988-F3B2-4317-84C0-41C7CAC47D1F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\servicesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2687E988-F3B2-4317-84C0-41C7CAC47D1F}|DataAccessLayer\\DataAccessLayer.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\dataaccesslayer\\petdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2687E988-F3B2-4317-84C0-41C7CAC47D1F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\petdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2687E988-F3B2-4317-84C0-41C7CAC47D1F}|DataAccessLayer\\DataAccessLayer.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\dataaccesslayer\\itemdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2687E988-F3B2-4317-84C0-41C7CAC47D1F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\itemdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2687E988-F3B2-4317-84C0-41C7CAC47D1F}|DataAccessLayer\\DataAccessLayer.csproj|d:\\code\\c_sharp\\pet_shop\\petshop2\\dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2687E988-F3B2-4317-84C0-41C7CAC47D1F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2687E988-F3B2-4317-84C0-41C7CAC47D1F}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\dataaccesslayer\\petshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2687E988-F3B2-4317-84C0-41C7CAC47D1F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\petshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033C98C8-704F-4D31-8C87-D8E23DC2C25C}|PetShopWPF\\PetShopWPF.csproj|D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\petshopwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{033C98C8-704F-4D31-8C87-D8E23DC2C25C}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033C98C8-704F-4D31-8C87-D8E23DC2C25C}|PetShopWPF\\PetShopWPF.csproj|D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\petshopwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033C98C8-704F-4D31-8C87-D8E23DC2C25C}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetService.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\PetService.cs",
+              "RelativeDocumentMoniker": "Services\\PetService.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\PetService.cs",
+              "RelativeToolTip": "Services\\PetService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:09:03.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "Services\\ItemService.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\ItemService.cs",
+              "RelativeToolTip": "Services\\ItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:08:37.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Services\\AppointmentService.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "Services\\AppointmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:03:33.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:03:16.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServiceService.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\IServiceService.cs",
+              "RelativeDocumentMoniker": "Services\\IServiceService.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\IServiceService.cs",
+              "RelativeToolTip": "Services\\IServiceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:03:01.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\IItemService.cs",
+              "RelativeDocumentMoniker": "Services\\IItemService.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\IItemService.cs",
+              "RelativeToolTip": "Services\\IItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:02:16.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "Services\\IAppointmentService.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\IAppointmentService.cs",
+              "RelativeToolTip": "Services\\IAppointmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:01:54.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPetService.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\IPetService.cs",
+              "RelativeDocumentMoniker": "Services\\IPetService.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\IPetService.cs",
+              "RelativeToolTip": "Services\\IPetService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:59:41.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:59:25.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ServiceRepository.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\ServiceRepository.cs",
+              "RelativeToolTip": "Repositories\\ServiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:37:16.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AppointmentRepository.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "Repositories\\AppointmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:36:27.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ItemRepository.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\ItemRepository.cs",
+              "RelativeToolTip": "Repositories\\ItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:36:03.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PetRepository.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\PetRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PetRepository.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\PetRepository.cs",
+              "RelativeToolTip": "Repositories\\PetRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:35:43.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:35:32.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAppointmentReposirory.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\IAppointmentReposirory.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAppointmentReposirory.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\IAppointmentReposirory.cs",
+              "RelativeToolTip": "Repositories\\IAppointmentReposirory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:35:13.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IServiceRepository.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\IServiceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IServiceRepository.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\IServiceRepository.cs",
+              "RelativeToolTip": "Repositories\\IServiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:34:53.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPetRepository.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\IPetRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IPetRepository.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\IPetRepository.cs",
+              "RelativeToolTip": "Repositories\\IPetRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:34:01.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IItemRepository.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\IItemRepository.cs",
+              "RelativeToolTip": "Repositories\\IItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:33:42.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:33:21.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppointmentDAO.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\DataAccessLayer\\AppointmentDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AppointmentDAO.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\DataAccessLayer\\AppointmentDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\AppointmentDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:31:52.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServicesDAO.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\DataAccessLayer\\ServicesDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ServicesDAO.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\DataAccessLayer\\ServicesDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ServicesDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:31:27.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PetDAO.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\DataAccessLayer\\PetDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\PetDAO.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\DataAccessLayer\\PetDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\PetDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:31:11.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ItemDAO.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\DataAccessLayer\\ItemDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ItemDAO.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\DataAccessLayer\\ItemDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ItemDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:30:55.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:30:40.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PetShopContext.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\DataAccessLayer\\PetShopContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\PetShopContext.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\DataAccessLayer\\PetShopContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\PetShopContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:15:24.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\PetShopWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PetShopWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\PetShopWPF\\MainWindow.xaml",
+              "RelativeToolTip": "PetShopWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-09T22:12:22.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\PetShopWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PetShopWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop2\\PetShopWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PetShopWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:12:22.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -23,5 +23,22 @@ namespace PetShopWPF
         {
             InitializeComponent();
         }
+
+        private void BackToLogin_Click(object sender, RoutedEventArgs e)
+        {
+            LoginWindow login = new LoginWindow();
+            this.Close();
+            login.Show();
+        }
+
+        private void Cancel_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+
+        private void Register_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

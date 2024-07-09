@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="CustomerWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label FontSize="40" Content="Super Pet" HorizontalAlignment="Left" Margin="301,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.961,0.44"/>
+
     </Grid>
 </Window>
