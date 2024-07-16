@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="AdminWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Account" HorizontalAlignment="Left" Margin="30,41,0,0" VerticalAlignment="Top" Width="68"/>
-        <Button Content="Services" HorizontalAlignment="Left" Margin="30,78,0,0" VerticalAlignment="Top" Width="68"/>
+        <StackPanel Background="AliceBlue" Margin="0,0,709,0"/>
+        <Button Name="btnAccount" Content="Account" HorizontalAlignment="Left" Margin="10,23,0,0" VerticalAlignment="Top" Width="68" Click="btnAccount_Click"/>
+        <Button Content="Services" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top" Width="68"/>
     </Grid>
 </Window>

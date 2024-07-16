@@ -23,5 +23,10 @@ namespace Services
         {
             return AccRepo.GetAccountByEmail(email);
         }
+
+        public void CreateAccount(Account acc)
+        {
+            AccRepo.CreateAccount(acc);
+        }
     }
 }

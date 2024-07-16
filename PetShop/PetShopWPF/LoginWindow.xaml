@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PetShopWPF"
         mc:Ignorable="d"
-        Title="LoginWindow" Height="450" Width="800">
+        Title="LoginWindow" Height="450" Width="800"
+         Loaded="LoginWindow_Load">
     <Grid AutomationProperties.IsOffscreenBehavior="Onscreen">
+        <DataGrid x:Name="accountDataGrid" AutoGenerateColumns="True"/>
         <Label Content="Login Window" FontSize="40" FontFamily="Calibri" HorizontalAlignment="Center" Margin="0,54,0,0" VerticalAlignment="Top"/>
         <Label Content="UserName" FontSize="20" HorizontalAlignment="Left" Margin="181,139,0,0" VerticalAlignment="Top"/>
         <Label Content="Password" FontSize="20" HorizontalAlignment="Left" Margin="181,199,0,0" VerticalAlignment="Top"/>
@@ -16,5 +18,6 @@
         <Button FontSize="20" Content="Cancel" HorizontalAlignment="Left" Margin="400,278,0,0" VerticalAlignment="Top" Width="94" Click="Cancel_Click"/>
         <Label Content="Do not have account yet?" HorizontalAlignment="Left" Margin="375,381,0,0" VerticalAlignment="Top"/>
         <Button Content="Go to register" HorizontalAlignment="Left" Margin="519,384,0,0" VerticalAlignment="Top" Width="94" Click="gotoRegister_Click"/>
+        
     </Grid>
 </Window>

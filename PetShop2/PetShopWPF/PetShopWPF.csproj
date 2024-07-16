@@ -9,9 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Services\Services.csproj">
-      <Private>True</Private>
-    </ProjectReference>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj" />
+    <ProjectReference Include="..\Models\Models.csproj" />
   </ItemGroup>
 
 </Project>

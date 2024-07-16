@@ -31,11 +31,23 @@ namespace PetShopWPF
             accountServices = new AccountServices();
         }
 
+        private void LoginWindow_Load(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
         private void gotoRegister_Click(object sender, RoutedEventArgs e)
         {
             RegisterWindow registerWindow = new RegisterWindow();
             this.Close();
             registerWindow.Show();
+        }
+
+        private void LoadData()
+        {
+            AccountServices accServices = new AccountServices();
+            List<Account> accounts = accServices.GetAllAccounts(); // Giả sử bạn có phương thức này để lấy danh sách tài khoản
+            accountDataGrid.ItemsSource = accounts;
         }
 
         private void Cancel_Click(object sender, RoutedEventArgs e)
@@ -45,14 +57,13 @@ namespace PetShopWPF
 
         private void Login_Click(object sender, RoutedEventArgs e)
         {
-
             Account account = accountServices.GetAccountByEmail(txtUsername.Text);
 
 
             if (account != null && account.Email.Equals(txtUsername.Text)
             && account.Password.Equals(txtPassword.Password))
             {
-                if (account.AccountType.Equals(0))
+                if (account.AccountType == 0)
                 {
                     // Điều hướng tới cửa sổ admin
                     AdminWindow adminWindow = new AdminWindow();
@@ -60,7 +71,7 @@ namespace PetShopWPF
                     MessageBox.Show("Đăng nhập thành công bằng tài khoản admin!", "Thành công", MessageBoxButton.OK, MessageBoxImage.Information);
                     adminWindow.Show();
                 }
-                else if (account.AccountType.Equals(1))
+                if (account.AccountType == 1)
                 {
                     // Điều hướng tới cửa sổ customer
                     CustomerWindow customerWindow = new CustomerWindow();

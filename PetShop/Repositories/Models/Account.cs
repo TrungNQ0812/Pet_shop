@@ -15,5 +15,5 @@ public partial class Account
 
     public string? PhoneNumber { get; set; }
 
-    public bool AccountType { get; set; }
+    public int AccountType { get; set; }
 }

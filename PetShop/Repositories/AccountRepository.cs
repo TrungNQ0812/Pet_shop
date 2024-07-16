@@ -29,6 +29,12 @@ namespace Repositories
         {
             return _context.Accounts.FirstOrDefault(a => a.Email == email);
         }
+        public void CreateAccount(Account acc)
+        {
+            using var db = new PetShopContext();
+            db.Accounts.Add(acc);
+            db.SaveChanges();
+        }
 
     }
 }

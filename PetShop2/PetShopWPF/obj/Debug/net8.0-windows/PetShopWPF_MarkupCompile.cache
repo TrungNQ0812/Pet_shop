@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\Code\C_Sharp\Pet_shop\PetShop2\PetShopWPF\App.xaml
-11407045341
+41436824676
 
-4546532366
-198155382431
-MainWindow.xaml;
+7-61823824
+246-852993231
+AdminWindow.xaml;CustomerWindow.xaml;LoginWindow.xaml;RegisterWindow.xaml;
 
 False
 

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Repositories;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,9 +20,17 @@ namespace PetShopWPF
     /// </summary>
     public partial class CustomerWindow : Window
     {
+        private PetShopContext context = new PetShopContext();
         public CustomerWindow()
         {
             InitializeComponent();
+            Load_Data();
+        }
+
+        private void Load_Data()
+        {
+            lvItems.ItemsSource = context.Items.ToList();
+            lvService.ItemsSource = context.Services.ToList();
         }
     }
 }

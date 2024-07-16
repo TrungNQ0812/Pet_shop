@@ -1,5 +1,6 @@
 USE [master]
 GO
+/****** Object:  Database [SWP391_Project]    Script Date: 6/22/2024 10:56:45 PM ******/
 IF EXISTS (SELECT name FROM master.dbo.sysdatabases WHERE name = N'PetShop')
 BEGIN
 	ALTER DATABASE PetShop SET OFFLINE WITH ROLLBACK IMMEDIATE;
@@ -10,15 +11,16 @@ END
 GO
 create database PetShop
 GO
+USE [PetShop]
+GO
 
-use PetShop;
 create table [Accounts](
 	[account_id] int Identity(1,1) primary key not null,
 	[account] nvarchar(50) not null,
 	[password] varchar(50)  not null,
 	[email] varchar(100),
 	[phone_number] varchar(10) check (len(phone_number) = 10),
-	[account_type] bit not null check ([account_type] in (0,1,2))
+	[account_type] int not null check ([account_type] in (0,1,2))
 );
 GO
 

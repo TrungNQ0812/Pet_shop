@@ -4579,6 +4579,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.6",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.6",
       "Microsoft.Extensions.Configuration.Json >= 8.0.0",
+      "Repositories >= 1.0.0",
       "Services >= 1.0.0"
     ]
   },
@@ -4609,6 +4610,9 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
+            "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\Repositories\\Repositories.csproj"
+            },
             "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\Services\\Services.csproj": {
               "projectPath": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\Services\\Services.csproj"
             }

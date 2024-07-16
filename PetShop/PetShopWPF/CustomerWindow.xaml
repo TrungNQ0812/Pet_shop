@@ -7,7 +7,29 @@
         mc:Ignorable="d"
         Title="CustomerWindow" Height="450" Width="800">
     <Grid>
-        <Label FontSize="40" Content="Super Pet" HorizontalAlignment="Left" Margin="301,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.961,0.44"/>
+        <DataGrid x:Name="accountDataGrid" AutoGenerateColumns="True"/>
+        <Label FontSize="40" FontWeight="Bold" Foreground="SeaGreen" Content="Super Pet" HorizontalAlignment="Left" Margin="301,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.961,0.44"/>
+        <Label Content="Food" Foreground="Red" FontSize="15" FontWeight="Black" Margin="153,152,602,246"></Label>
+        <ListView Name="lvItems" Margin="6,193,0,10" HorizontalAlignment="Left" Width="384">
 
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Item ID" Width="100" DisplayMemberBinding="{Binding Path=ItemId}"/>
+                    <GridViewColumn Header="Item Name" Width="200" DisplayMemberBinding="{Binding Path=ItemName}"/>
+                    <GridViewColumn Header="Quantity" Width="80" DisplayMemberBinding="{Binding Path=Quantity}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Label Content="Services" Foreground="Red" FontSize="15" FontWeight="Black" Margin="566,90,164,308"></Label>
+        <ListView Name="lvService" Margin="412,131,0,72" HorizontalAlignment="Left" Width="378">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Service ID" Width="100" DisplayMemberBinding="{Binding Path=ServiceId}"/>
+                    <GridViewColumn Header="Service Name" Width="192" DisplayMemberBinding="{Binding Path=ServiceName}"/>
+                    <GridViewColumn Header="Charge" Width="80" DisplayMemberBinding="{Binding Path=ServiceCharge}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
     </Grid>
 </Window>

@@ -23,5 +23,12 @@ namespace PetShopWPF
         {
             InitializeComponent();
         }
+
+        private void btnAccount_Click(object sender, RoutedEventArgs e)
+        {
+            AccountWindow accountWindow = new AccountWindow();
+            this.Close();
+            accountWindow.Show();
+        }
     }
 }

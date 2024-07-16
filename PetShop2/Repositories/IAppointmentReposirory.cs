@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Repositories
 {
-    internal class IAppointmentReposirory
+    public interface IAppointmentReposirory
     {
+
     }
 }

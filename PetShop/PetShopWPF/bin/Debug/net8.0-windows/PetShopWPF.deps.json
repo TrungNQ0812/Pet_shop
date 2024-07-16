@@ -13,6 +13,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.6",
           "Microsoft.Extensions.Configuration.Json": "8.0.0",
+          "Repositories": "1.0.0",
           "Services": "1.0.0"
         },
         "runtime": {

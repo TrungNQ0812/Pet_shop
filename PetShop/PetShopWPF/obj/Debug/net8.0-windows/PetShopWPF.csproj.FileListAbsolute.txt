@@ -150,3 +150,5 @@ D:\Code\C_Sharp\Pet_shop\PetShop\PetShopWPF\bin\Debug\net8.0-windows\Services.dl
 D:\Code\C_Sharp\Pet_shop\PetShop\PetShopWPF\bin\Debug\net8.0-windows\Services.pdb
 D:\Code\C_Sharp\Pet_shop\PetShop\PetShopWPF\bin\Debug\net8.0-windows\Repositories.pdb
 D:\Code\C_Sharp\Pet_shop\PetShop\PetShopWPF\bin\Debug\net8.0-windows\appsettings.json
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopWPF\obj\Debug\net8.0-windows\AccountWindow.g.cs
+D:\Code\C_Sharp\Pet_shop\PetShop\PetShopWPF\obj\Debug\net8.0-windows\AccountWindow.baml
