@@ -1,4 +1,5 @@
-﻿using Repositories;
+﻿using Microsoft.Identity.Client.NativeInterop;
+using Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,5 +33,24 @@ namespace PetShopWPF
             lvEmployee.ItemsSource = context.Accounts.ToList();
         }
 
+        private void btnLogout_Click(object sender, RoutedEventArgs e)
+        {
+            LoginWindow login = new LoginWindow();
+            this.Close();
+            login.Show();
+        }
+
+        private void lvEmployee_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if (lvEmployee.SelectedItem is Account selected)
+            {
+                txtId.Text = selected.AccountId.ToString();
+                txtName.Text = selected.UserName.ToString();
+                txtEmail.Text = selected.E;
+                txtPhone.Text = selected.PhoneNumber ?? string.Empty;
+            }
+        }
+
+       
     }
 }

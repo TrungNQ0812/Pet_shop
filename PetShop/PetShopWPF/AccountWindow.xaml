@@ -12,17 +12,29 @@
                 <ImageBrush/>
             </TextBlock.Background>
         </TextBlock>
-        <ListView Name="lvEmployee" Margin="0,117,314,0">
+        <ListView Name="lvEmployee" Margin="0,117,314,0" SelectionChanged="lvEmployee_SelectionChanged" >
             <ListView.View>
                 <GridView>
-                    <GridViewColumn Header="Account ID" Width="120" DisplayMemberBinding="{Binding Path=AccountId}"/>
-                    <GridViewColumn Header="Account Name" Width="120" DisplayMemberBinding="{Binding Path=Account1}"/>
-                    <GridViewColumn Header="Email" Width="100" DisplayMemberBinding="{Binding Path=Email, StringFormat=dd/MM/yyyy}"/>
-
-                    <GridViewColumn Header="Phone" Width="140" DisplayMemberBinding="{Binding Path=PhoneNumber}"/>
+                    <GridViewColumn x:Name="sltId" Header="Account ID" Width="120" DisplayMemberBinding="{Binding Path=AccountId}"/>
+                    <GridViewColumn x:Name="sltName" Header="Account Name" Width="120" DisplayMemberBinding="{Binding Path=Account1}"/>
+                    <GridViewColumn x:Name="sltEmail" Header="Email" Width="100" DisplayMemberBinding="{Binding Path=Email, StringFormat=dd/MM/yyyy}"/>
+                    <GridViewColumn x:Name="sltPhone" Header="Phone" Width="140" DisplayMemberBinding="{Binding Path=PhoneNumber}"/>
 
                 </GridView>
             </ListView.View>
         </ListView>
+        <TextBox HorizontalAlignment="Left" Margin="591,142,0,0" TextWrapping="Wrap" Name="txtId" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Account ID" HorizontalAlignment="Left" Margin="523,138,0,0" VerticalAlignment="Top"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="523,169,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="591,177,0,0" TextWrapping="Wrap" Name="txtName" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Email" HorizontalAlignment="Left" Margin="523,0,0,0" VerticalAlignment="Center"/>
+        <TextBox HorizontalAlignment="Left" Margin="591,0,0,0" TextWrapping="Wrap" Name="txtEmail" VerticalAlignment="Center" Width="120"/>
+        <Label Content="Phone" HorizontalAlignment="Left" Margin="523,235,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="591,239,0,0" TextWrapping="Wrap" Name="txtPhone" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="523,290,0,0" VerticalAlignment="Top" />
+        <Button Content="Update" HorizontalAlignment="Left" Margin="571,290,0,0" VerticalAlignment="Top"/>
+        <Button Content="Delete" HorizontalAlignment="Left" Margin="631,290,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.041,-0.013" />
+        <Button Content="Logout" Name="btnLogout" HorizontalAlignment="Left" Margin="730,24,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.2,-0.615" Click="btnLogout_Click"/>
+
     </Grid>
 </Window>

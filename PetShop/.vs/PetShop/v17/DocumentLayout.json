@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|d:\\code\\c_sharp\\pet_shop\\petshop\\petshopwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|d:\\code\\c_sharp\\pet_shop\\petshop\\petshopwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|d:\\code\\c_sharp\\pet_shop\\petshop\\petshopwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\petshopwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|d:\\code\\c_sharp\\pet_shop\\petshop\\petshopwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\petshopwpf\\accountwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\accountwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E63ABFBE-C079-4CA6-A909-7AA050DAF0DA}|Repositories\\Repositories.csproj|d:\\code\\c_sharp\\pet_shop\\petshop\\repositories\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E63ABFBE-C079-4CA6-A909-7AA050DAF0DA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|d:\\code\\c_sharp\\pet_shop\\petshop\\petshopwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E63ABFBE-C079-4CA6-A909-7AA050DAF0DA}|Repositories\\Repositories.csproj|d:\\code\\c_sharp\\pet_shop\\petshop\\repositories\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E63ABFBE-C079-4CA6-A909-7AA050DAF0DA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\petshopwpf\\accountwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\accountwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E63ABFBE-C079-4CA6-A909-7AA050DAF0DA}|Repositories\\Repositories.csproj|D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\repositories\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E63ABFBE-C079-4CA6-A909-7AA050DAF0DA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|d:\\code\\c_sharp\\pet_shop\\petshop\\petshopwpf\\accountwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\accountwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\petshopwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|d:\\code\\c_sharp\\pet_shop\\petshop\\petshopwpf\\accountwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\accountwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\petshopwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\petshopwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\petshopwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|solutionrelative:petshopwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63ABFBE-C079-4CA6-A909-7AA050DAF0DA}|Repositories\\Repositories.csproj|D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\repositories\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63ABFBE-C079-4CA6-A909-7AA050DAF0DA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63ABFBE-C079-4CA6-A909-7AA050DAF0DA}|Repositories\\Repositories.csproj|D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\repositories\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63ABFBE-C079-4CA6-A909-7AA050DAF0DA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F4A484F-1ADE-46F8-A21C-3128A45A5379}|PetShopWPF\\PetShopWPF.csproj|D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\petshopwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -54,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,44 +78,76 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PetShopWPF\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "PetShopWPF\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:04:02.357Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "PetShopWPF\\LoginWindow.xaml",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\LoginWindow.xaml",
+              "RelativeToolTip": "PetShopWPF\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T10:03:55.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\AccountWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PetShopWPF\\AccountWindow.xaml.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\AccountWindow.xaml.cs",
+              "RelativeToolTip": "PetShopWPF\\AccountWindow.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwC8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:09:28.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountWindow.xaml",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\AccountWindow.xaml",
+              "RelativeDocumentMoniker": "PetShopWPF\\AccountWindow.xaml",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\AccountWindow.xaml",
+              "RelativeToolTip": "PetShopWPF\\AccountWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-17T01:09:14.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CustomerWindow.xaml",
               "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\CustomerWindow.xaml",
               "RelativeDocumentMoniker": "PetShopWPF\\CustomerWindow.xaml",
               "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\CustomerWindow.xaml",
               "RelativeToolTip": "PetShopWPF\\CustomerWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-16T23:42:33.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T23:42:33.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "AdminWindow.xaml",
               "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\AdminWindow.xaml",
               "RelativeDocumentMoniker": "PetShopWPF\\AdminWindow.xaml",
               "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\AdminWindow.xaml",
               "RelativeToolTip": "PetShopWPF\\AdminWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-16T23:40:18.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T23:40:18.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\CustomerWindow.xaml.cs",
-              "RelativeDocumentMoniker": "PetShopWPF\\CustomerWindow.xaml.cs",
-              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\CustomerWindow.xaml.cs",
-              "RelativeToolTip": "PetShopWPF\\CustomerWindow.xaml.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T23:38:44.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Service.cs",
               "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\Repositories\\Models\\Service.cs",
               "RelativeDocumentMoniker": "Repositories\\Models\\Service.cs",
@@ -115,12 +155,11 @@
               "RelativeToolTip": "Repositories\\Models\\Service.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T23:15:07.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T23:15:07.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Item.cs",
               "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\Repositories\\Models\\Item.cs",
               "RelativeDocumentMoniker": "Repositories\\Models\\Item.cs",
@@ -128,63 +167,47 @@
               "RelativeToolTip": "Repositories\\Models\\Item.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T23:06:33.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T23:06:33.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AdminWindow.xaml.cs",
               "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\AdminWindow.xaml.cs",
               "RelativeDocumentMoniker": "PetShopWPF\\AdminWindow.xaml.cs",
               "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\AdminWindow.xaml.cs",
               "RelativeToolTip": "PetShopWPF\\AdminWindow.xaml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAawB4AAAAhAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwB4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T22:17:57.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T22:17:57.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\AccountWindow.xaml.cs",
-              "RelativeDocumentMoniker": "PetShopWPF\\AccountWindow.xaml.cs",
-              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\AccountWindow.xaml.cs",
-              "RelativeToolTip": "PetShopWPF\\AccountWindow.xaml.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T22:07:10.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AccountWindow.xaml",
-              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\AccountWindow.xaml",
-              "RelativeDocumentMoniker": "PetShopWPF\\AccountWindow.xaml",
-              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\AccountWindow.xaml",
-              "RelativeToolTip": "PetShopWPF\\AccountWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-16T21:14:46.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Account.cs",
               "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\Repositories\\Models\\Account.cs",
               "RelativeDocumentMoniker": "Repositories\\Models\\Account.cs",
               "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\Repositories\\Models\\Account.cs",
               "RelativeToolTip": "Repositories\\Models\\Account.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwA8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T00:00:43.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T00:00:43.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PetShopWPF\\CustomerWindow.xaml.cs",
+              "ToolTip": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "PetShopWPF\\CustomerWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T23:38:44.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\appsettings.json",
               "RelativeDocumentMoniker": "PetShopWPF\\appsettings.json",
@@ -196,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "PetShopWPF.csproj",
               "DocumentMoniker": "D:\\Code\\C_Sharp\\Pet_shop\\PetShop\\PetShopWPF\\PetShopWPF.csproj",
               "RelativeDocumentMoniker": "PetShopWPF\\PetShopWPF.csproj",
